@@ -53,3 +53,6 @@ strokeWeight(5);
 ellipse(350,175, 20,20);
 
 print("Playstation 1 gezicht");
+
+line(230,100,340,100);
+line(60,100,170,100);
